@@ -28,7 +28,7 @@ brew tap ethereum/ethereum
 brew install solidity
 ```
 ```
-git clone https://github.com/crytic/slither.git && cd slither
+git clone https://github.com/crytic/slither.git
 ```
 ```
 sudo python3 setup.py install
